@@ -3,8 +3,7 @@
 
 ### Tecnologias
 
-* [HTML] 	- Hipertext Terminal Protocol!
-* [CSS] 	-  Cascading Style Sheet
+![Done](http://184.171.245.138:2086/cPanel_magic_revision_1351612069/cjt/images/icons/success.png)* [CSS] 	-  Cascading Style Sheet
 * [JS] 		- Javascript
 * [POO]     - Programação Orientada a Objetos
 * [MVC]     - Camadas Model, View and Controller

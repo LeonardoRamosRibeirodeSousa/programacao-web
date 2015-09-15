@@ -46,7 +46,7 @@ header nav a:first-child {
 header div.banner{
   height: 415px;
   width:850px;
-  background: url('../_images/banner.jpg');
+  background: url('../images/banner.jpg');
   padding: 60px 0 0 60px;
   float: left;
 }
@@ -54,5 +54,5 @@ form{
   width: 350px;
   height: 250px;
   box-sizing: border-box;
-  background: url('../_images/formBg.png');
+  background: url('../images/formBg.png');
 }

@@ -10,4 +10,4 @@
 * Border: 1px solid #CCCCCC
 
 ## FONT
- * font-family: Verdana
+ * font-family: Arial

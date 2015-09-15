@@ -20,11 +20,11 @@
         <form action="#">
           <h1>Faça sua Reserva!</h1>
           <label for="checkin">Chegada</label>
-          <input type="datetime" name="checkin">
+          <input type="date" name="checkin" required autofocus="">
           <label for="checkout">Saída</label>
-          <input type="datetime" name="checkout">
+          <input type="date" name="checkout">
           <label for="qtdAdulto">Adultos</label>
-          <input type="number" name ="qtdAdulto" placeholder="0">
+          <input type="number" name ="qtdAdulto" placeholder="1" min="1">
           <label for="optSuite">Suíte</label>
           <select name="" id="">
             <option value="">Escolha sua suíte</option>
@@ -33,6 +33,7 @@
         </form>
       </div>
     </header>
+    
     </div>
   </body>
 </html>

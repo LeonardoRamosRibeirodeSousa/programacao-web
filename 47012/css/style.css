@@ -69,13 +69,25 @@ label {
     width: 90px;
     float: left;
     padding: 5px;
+    color: #444;
 }
 input, select {
     width: 200px;
     height: 30px;
     float: left;
     margin-bottom: 5px;
+    border:1px solid #CCC;
+    box-sizing: border-box;
+    padding: 5px;
+  background: #fff;
+    color: #555;
 }
+input[type=date]{
+background-image: url(../images/inputCalendario.jpg);
+background-repeat: no-repeat;
+background-position-x: 170px;
+}
+
 form button {
     width: 125px;
     height: 40px;
